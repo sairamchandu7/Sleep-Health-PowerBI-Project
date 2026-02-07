@@ -1,2 +1,7 @@
-# Sleep-Health-PowerBI-Project
-Power BI dashboard analyzing sleep health and lifestyle
+## 📷 Dashboard Screenshots
+
+### Overview Page
+![Overview](Screenshots/overview.png)
+
+### Lifestyle Analysis Page
+![Lifestyle Analysis](Screenshots/lifestyle_analysis.png)
