@@ -29,7 +29,6 @@ This dashboard enables users to explore patterns in sleep duration, stress level
 
 ## 📊 Dashboard Preview
 
-> *(Make sure you uploaded `dashboard_preview.png` to your repo)*
 
 ![Dashboard Preview](dashboard_preview.png)
 
